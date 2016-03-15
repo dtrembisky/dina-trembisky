@@ -1,7 +1,13 @@
  <!DOCTYPE html>
  <html>
  <head>
+ <style>
+ body {
  
  background-image: url("https://cloud.githubusercontent.com/assets/17442104/13623033/7a091222-e571-11e5-8baa-da5912576e07.JPG");
         background-size: 1250px 800px;
         background-repeat: no-repeat;
+}
+</style>
+<body> </body>
+</html>
